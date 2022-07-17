@@ -29,7 +29,7 @@ Note : there are hidden features, check at the source code of the bot to find th
 <br/><br/>
 
 ## ⚛️ Deploying on Heroku
---> https://github.com/MsGsuite/CloneBot_Heroku
+--> https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/megadownload11/CloneBot
 <br/><br/>
 
 ## 📱 Run the bot on your phone using termux
